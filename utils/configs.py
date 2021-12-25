@@ -20,11 +20,11 @@ class Var(object):
     # You Can Get An API Key From https://api.imgbb.com.
     API = os.environ.get("API", None)
 
-    OWNER_ID = int(os.environ.get("OWNER_ID", "853393439"))
-    BOT_NAME = os.environ.get("BOT_NAME", "ImgBBRobot")
+    OWNER_ID = int(os.environ.get("OWNER_ID", "1331793103"))
+    BOT_NAME = os.environ.get("BOT_NAME", "ImgBBRexbot")
 
-    START_PIC = "https://i.imgur.com/zYIllxt.jpg"
-    HELP_PIC = "https://i.imgur.com/AmxAlix.jpg"
+    START_PIC = "https://telegra.ph/file/93e7ae69a568534628004.jpg"
+    HELP_PIC = "https://telegra.ph/file/93e7ae69a568534628004.jpg"
 
 
 class Tr(object):
