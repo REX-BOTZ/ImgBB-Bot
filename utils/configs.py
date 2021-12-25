@@ -30,40 +30,44 @@ class Var(object):
 class Tr(object):
 
     START_TEXT = """
-👋 Hi ! {} Welcome To @ImgBBRobot
+👋 Hi ! {} Welcome To @ImgBBRexBot
 
 **With This Bot You Can Hosts Your Images On imgbb.com **
 
 You Can Send An Image As Forwarded Message From Any Chat/Channel Or Upload It As Photo Or File.
 """
 
-    ABOUT_TEXT = """🤖 **My Name:** [ImgBB](t.me/ImgBBRobot)
+    ABOUT_TEXT = """
+╭────[⚡ ᴀʙᴏᴜᴛ ⚡]───⍟
+│
+├<b>🤖 𝙱𝚘𝚝 𝙽𝚊𝚖𝚎 : <a href='https://t.me/IMGBBRexBot'>ɪᴍɢʙʙ</a></b>
+│
+├<b>📢 𝙲𝚑𝚊𝚗𝚗𝚎𝚕  : <a href='https://t.me/Rex_Botz'>ᴊᴏɪɴ</a></b>
+│
+├<b>👥 𝚅𝚎𝚛𝚜𝚒𝚘𝚗  : <a href='https://t.me/Rex_Bots_Support'>0.9.2ʙᴇᴛᴀ</a></b>
+│
+├<b>💢 𝚂𝚘𝚞𝚛𝚌𝚎   : <a href='https://github.com/REX-BOTZ/'>ᴅᴇᴘʟᴏʏ</a></b>
+│
+├<b>🌐 𝚂𝚎𝚛𝚟𝚎𝚛   : <a href='https://heroku.com'>ʜᴇʀᴏᴋᴜ</a></b>
+│
+├<b>📕 𝙻𝚒𝚋𝚛𝚊𝚛𝚢  : <a href='https://github.com/pyrogram'>ᴘʀɢ1.2.8</a></b>
+│
+├<b>㊙ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : <a href='https://www.python.org'>ᴘʏ3.9.4</a></b>
+│
+├<b>👨‍💻 𝙳𝚎𝚟      : <a href='https://t.me/BENWOLF24'>ᴡᴏʟғ24</a></b>
+│
+├<b>🚸 𝙿𝚘𝚠𝚎𝚛𝚎𝚍  : <a href='https://t.me/FluxPlay'>ғʟᴜxᴘʟᴀʏ</a></b>
+│
+╰──────[ᴛʜᴀɴᴋs 😊]───⍟"""
 
-📝 **Language:** [Python 3](https://www.python.org)
-
-📚 **Framework:** [Pyrogram](https://github.com/pyrogram/pyrogram)
-
-📡 **Hosted On:** [Railway](railway.app)
-
-👨‍💻 **Developer:** [Amine Soukara](t.me/AmineSoukara)
-
-💡 **Source Code:** [Github](https://github.com/AmineSoukara/ImgBB-Bot/fork)
-
-👥 **Support Group:** [Damien Help](https://t.me/DamienHelp)
-
-📢 **Updates Channel:** [Damien Soukara](https://t.me/DamienSoukara)
-
-
-❤ [Donate](https://www.paypal.me/AmineSoukara) (PayPal)
-"""
 
     HELP_TEXT = """💡 Just Send Me Your Photo And I'll Upload it To You .  That's it
 
-❤ [Donate](https://www.paypal.me/AmineSoukara) (PayPal)
+❤ [Donate](https://t.me/Benwolf24) (PayPal)
 """
 
     ERR_TEXT = "⚠️ API Not Found"
 
-    ERRTOKEN_TEXT = "😶 The Access Token Provided Is Expired, Revoked, Malformed Or Invalid For Other Reasons. DM @AmineSoukara",
+    ERRTOKEN_TEXT = "😶 The Access Token Provided Is Expired, Revoked, Malformed Or Invalid For Other Reasons. DM @Rex_Bots_Support",
 
     WAIT = "💬 Please Wait !!"
